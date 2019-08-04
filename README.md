@@ -1,5 +1,5 @@
 # michaeldegroot/DoctrineEncryptBundle
-
+# AK: Checkout at 4.0.2
 This is an fork from the original bundle created by ambta which can be found here:
 [ambta/DoctrineEncryptBundle](https://github.com/ambta/DoctrineEncryptBundle)
 
